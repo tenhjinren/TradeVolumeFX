@@ -1,0 +1,64 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">);
+@import url(<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">);
+*{box-sizing: border
+;font-family:'PT Sans Narrow', sans-serif;
+}
+
+html, body {margin:0;
+  padding:0}
+
+
+ul {margin:0}
+
+.navigation_home ul {margin:0}
+.navigation_home li{display: inline;}
+.navigation_home a{
+display: inline-block;
+  padding:1em;
+  color:white
+  ;text-decoration: none;
+}
+.navigation_home a:hover{background-color: #FF8C00;
+transition: 0.8s}
+.Home_header{background-image: url(header_2.jpg);
+background-size: cover;
+padding-bottom: 40px
+;margin: 0}
+
+.navigation_home ul{;font-size: 1.5em;
+font-weight: lighter;
+border-bottom: 4px solid black}
+.navigation_home {
+text-align: center;
+ }
+
+ .navigation_home li{padding:0 5%}
+
+.header_name{text-align: center;
+margin:0
+;font-size: 20px
+;font-family: 'PT Sans Narrow', sans-serif;
+color:#FFA500 ;
+padding-top: 30px}
+
+
+.header_name h2{margin:0;font-size: 30;
+  color:white}
+
+
+
+.analysis_2{text-align: center; }
+.analysis_2 h3{font-size: 50px;text-decoration: underline;background-color: black;color: white;margin:20px 0 20px 0;padding: 10px}
+.analysis_font{font-size: 20px;}
+.analysis_font  button{padding: 5px 12px;
+  border-radius: 12px;
+ transition-duration: 0.4s;
+background-color: white
+}
+.analysis_font button:hover{
+background-color: #FFA500;color: white}
+
+
+.footer_menu {margin: 0; }
+.footer_menu h3 {text-align: center;font-size: 40px;text-decoration: underline;}
+.footer_menu img{height:30px;width:30px;t}

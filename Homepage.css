@@ -1,0 +1,99 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">);
+@import url(<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">);
+*{box-sizing: border
+;font-family:'PT Sans Narrow', sans-serif;
+}
+
+html, body {margin:0;
+  padding:0}
+
+
+ul {margin:0}
+
+.navigation_home ul {margin:0}
+.navigation_home li{display: inline;}
+.navigation_home a{
+display: inline-block;
+  padding:1em;
+  color:white
+  ;text-decoration: none;
+}
+.navigation_home a:hover{background-color: #FF8C00;
+transition: 0.8s}
+.Home_header{background-image: url(header_2.jpg);
+background-size: cover;
+padding-bottom: 80px
+;margin: 0}
+
+.navigation_home ul{;font-size: 1.5em;
+font-weight: lighter;
+border-bottom: 4px solid black}
+.navigation_home {
+text-align: center;
+ }
+
+ .navigation_home li{padding:0 5%}
+
+.header_name{text-align: center;
+margin:0
+;font-size: 60px
+;font-family: 'PT Sans Narrow', sans-serif;
+color:#FFA500 ;
+padding-top: 30px}
+
+
+.Header_word h3{margin:0;font-size: 30;
+  color:#FFA500}
+
+.services_home{text-align: center;
+  ;font-size: 30px;padding-bottom: 5px
+;color:white;background-color: black}
+
+  .weekly_chart{margin: 1em;text-align:center;
+  }
+  .weekly_chart img{height: 300px;width: 300px}
+
+  .weekly_chart h3{text-decoration: underline;font-size: 40px;}
+
+  .weekly_chart p{font-size: 30px}
+
+  .weekly_chart button{padding: 10px 24px;
+    border-radius: 12px;
+   transition-duration: 0.4s;
+ background-color: white
+}
+
+.weekly_chart button:hover{
+background-color: #FFA500;color: white}
+
+.mentorship {padding-top:20px;text-align: center;background-color:#87CEFA;}
+.mentorship h3{font-size: 45px;text-decoration: underline;}
+.mentorship p{font-size:20px}
+.mentorship_list {font-size: 20px}
+.mentorship_list h2{text-decoration: underline;}
+.mentorship button{padding: 10px 24px;
+  border-radius: 12px;
+ transition-duration: 0.4s;
+background-color: white;
+margin:20px
+}
+.mentorship button:hover{
+background-color: #FFA500;color: white}
+.mentorship img{height: 300px;width:300px}
+
+.Vip_Signal2{text-align: center;margin:0}
+.Vip_Signal2 h3{font-size:40px;text-decoration: underline;}
+.Vip_signal3 img{height:200px;width:200px}
+.Vip_signal3 p{font-size:20px}
+.Vip_Signal2 button{padding: 10px 24px;
+  border-radius: 12px;
+ transition-duration: 0.4s;
+background-color: white
+}
+.Vip_Signal2 button:hover{
+background-color: #FFA500;color: white}
+
+footer{background-color: #87CEFA}
+.footer_menu {margin: 0; }
+.footer_menu h3 {text-align: center;font-size: 40px;text-decoration: underline;}
+.footer_menu img{height:30px;width:30px;t}
